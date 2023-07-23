@@ -1,0 +1,6 @@
+terraform.*
+.terraform.*
+.terraform
+backend.tf 
+asg.tf 
+instance.tf 
